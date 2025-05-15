@@ -2,7 +2,7 @@
 "name": "Robin-web-pair",
     "version": "0.0.1",
     "description": "A multi functional whatsapp bot Web paircode.",
-    "main": "index.js",
+    "main": "1index.js",
     "scripts": {
       "start": "pm2 start index.js --deep-monitoring --attach --name Robin",
       "stop": "pm2 stop robin",
